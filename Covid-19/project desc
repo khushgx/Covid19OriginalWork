@@ -1,0 +1,3 @@
+• Developed 14-day analysis of NY times COVID Data using NumPy, Seaborn, Pandas and Tensorflow
+• Analyzed the correlation between deaths, cases, clinics, and socioeconomic status of regions in Collin County and surveyedpublic on mask preferences and access to vaccines to develop a thorough analysis of the region
+• Implemented Python Libraries NumPy, Pandas, Tensorflow to create a vector difference of cases considering features likevaccines administered, clinics opened, and deaths for the past 14 days to show whether cases were generally increasing ordecreasing。 Presented data to small businesses leading to a 2%reduction in staff cases
